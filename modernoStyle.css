@@ -1,0 +1,194 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.jumbotron {
+	background-color: #343A40
+}
+
+h1 {
+	padding-top: 65px;
+}
+
+h1 , .jumbotron p{
+	color: #FFFFFF;
+}
+
+.jumbotron .container {
+	min-height: 400px;
+}
+
+section {
+	padding-top: 50px;
+	padding-bottom: 80px;
+}
+
+.option h4 {
+	padding-top: 30px;
+}
+
+p {
+	color: #7C7C7C;
+}
+
+.CustomImage {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #FA694E;
+	width: 80px;
+	height: 80px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.CustomImage2 {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #FFFFFF;
+	width: 80px;
+	height: 80px;
+	margin-right: auto;
+	margin-left: auto;
+	border: 1px solid #AFAFAF;
+}
+
+.CustomImage3 {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #2B2B2B;
+	width: 350px;
+	height: 250px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 30px;
+}
+
+.CustomImage4 {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #797979;
+	padding: 120px;
+}
+
+.CustomImage-Icon {
+	width: 40%;
+}
+
+.CustomImage-Icon2 {
+	width: 25%;
+}
+
+/*SUCCESS STORIES*/
+
+.successStory {
+	background-color: #F5F5F5;
+
+}
+
+.successStory img {
+	width: 100%;
+}
+
+.dismissable {
+	padding-top: 50px;
+}
+
+.CustomBorder {
+	border: 1px solid #AFAFAF;
+	background-color: #FFFFFF;
+}
+
+.CustomBorder h4 {
+	padding-left: 25px;
+	padding-top: 45px;
+	padding-bottom: 25px;
+}
+
+.CustomBorder p {
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+.CustomBorder .btn {
+	margin-left: 25px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.BigButton {
+	color: #FFFFFF;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-size: 14px;
+}
+
+/*CustomButton Orange*/
+
+.btn-orange {
+  color: #fff;
+  background-color: #FA694E;
+  border-color: #FA694E;
+}
+
+.btn-orange:hover {
+  color: #fff;
+  background-color: #F67F68;
+  border-color: #F67F68;
+}
+
+.CollectImage {
+	padding-top: 100px;
+}
+
+.GetInTouch {
+	padding-top: 70px;
+	padding-top: 70px;
+}
+
+.hero {
+	padding-top: 50px;
+	padding-bottom: 70px;
+}
+
+.CustomForm {
+	background-color: #F1F4F7;
+}
+
+.coladdress {
+	padding-bottom: 20px;
+}
+
+.GetInTouch p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+@media (max-width: 576px) {
+	.coladdress {
+		margin-top: 30px;
+		margin-bottom: 20px;
+	}
+}
+
+.coladdress h4 {
+	margin-top: 0;
+	margin-bottom: 20px;
+}
+
+.colphone {
+	padding-top: 20px;
+}
+
+footer p {
+	padding: 30px;
+	color: #FFFFFF;
+}
+
+footer {
+	background-color: #313131;
+}
